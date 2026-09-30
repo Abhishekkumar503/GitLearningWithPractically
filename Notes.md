@@ -65,3 +65,5 @@ branch 'RebaseBranch' set up to track 'origin/RebaseBranch'.
 abhishekkumar~$
 
 
+**Merge**
+![alt text](image.png)
